@@ -1,4 +1,4 @@
-# Python 工匠：善用变量来改善代码质量
+# Pythonista：improve code quality from variables
 
 ## 『Python 工匠』是什么？
 
